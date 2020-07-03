@@ -1,0 +1,110 @@
+vue
+vue 面试题 https://juejin.im/post/5d59f2a451882549be53b170#heading-7
+vue hooks https://juejin.im/post/5c7784d5f265da2de713629c
+vue mixin 混入
+https://juejin.im/post/5d677e7be51d4561ce5a1c87
+vuex https://vuex.vuejs.org/zh/guide/actions.html
+
+虚拟dom https://juejin.im/post/5d36cc575188257aea108a74
+
+async / await
+https://juejin.im/post/5d9e8539f265da5b8a515e63
+
+react
+react面试题 https://segmentfault.com/a/1190000016885832
+react面试题 https://juejin.im/post/5c989ea76fb9a070ad504cd8#heading-38
+
+umi  
+
+dva: redux 封装版
+
+redux 类似 vuex状态管理
+
+vue ssr
+https://ssr.vuejs.org/zh/guide/routing.html#%E4%BD%BF%E7%94%A8-vue-router-%E7%9A%84%E8%B7%AF%E7%94%B1
+
+less sass postcss
+https://juejin.im/post/5c9b17cbf265da60c95b7c3a
+
+盒子模型
+
+
+css 面试题 https://juejin.im/post/5cc59e41e51d456e62545b66
+
+es 6 7 8 9 10 https://juejin.im/post/5d9bf530518825427b27639d#heading-15
+
+箭头函数和普通函数的区别 https://juejin.im/post/5c979300e51d456f49110bf0
+
+移动端布局
+
+前端性能优化
+https://juejin.im/post/5a6941e1f265da3e33048429
+https://segmentfault.com/a/1190000020867090
+
+dns优化
+dns 预解析
+https://www.jianshu.com/p/95a0c0636d28
+
+跨域
+https://www.ruanyifeng.com/blog/2016/04/cors.html
+
+Promise es6规范产物
+
+原生请求
+https://www.jianshu.com/p/e1c0818ae3bb
+
+http缓存
+https://juejin.im/post/5a1d4e546fb9a0450f21af23
+
+安卓 ios样式兼容性问题 https://segmentfault.com/a/1190000015131445  https://zhuanlan.zhihu.com/p/24890540
+
+0.5px https://juejin.im/post/5ab65f40f265da2384408a95
+
+http请求原理
+https://juejin.im/post/5b30dd496fb9a00e925bde2e
+浏览器请求这个页面：http://hackr.ip/index.html
+在这一步，需要域名系统DNS解析域名hackr.ip,得主机的IP地址 20X.189.105.112。
+然后将上面结合本机自己的信息，封装成一个http请求数据包
+
+
+http https socket
+
+html头
+
+html5标签  
+
+flex布局 https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
+闭包 https://juejin.im/post/5b081f8d6fb9a07a9b3664b6
+
+commonjs amd cmd 规范 https://juejin.im/post/5aaa37c8f265da23945f365c
+amd 依赖前置    cmd依赖就近，按需加载    commonjs nodejs 是该规范的主要实践者 同步的方式加载模块
+目前用的基本都是es6 module 主要由export和import 两个命令构成 export命令用于规定模块的对外接口，import命令用于输入其他模块提供的功能。在编译时就引入模块代码，而不是在代码运行时加载，所以无法实现条件加载。
+
+dom渲染过程
+https://juejin.im/entry/59e1d31f51882578c3411c77
+
+express： node 框架
+
+eventloop
+https://juejin.im/post/5b8f76675188255c7c653811
+
+webpack https://juejin.im/post/5c6cffde6fb9a049d975c8c1
+
+代码粒度
+一种设计模式，细粒度：需要复用的场景，例如兼容多组建    粗粒度：单用低耦合场景
+
+var const let https://juejin.im/post/5bdedd42e51d450d810a897c
+
+es6 https://juejin.im/post/5d9bf530518825427b27639d
+
+预渲染 服务器渲染区别
+
+bfc https://juejin.im/post/5c6d7a5cf265da2d9e175182
+
+重绘 回流 https://juejin.im/post/5a9923e9518825558251c96a
+
+继承区别 es6 和 普通
+
+webpack常用插件
+[面试准备](https://juejin.im/post/5e9b42f06fb9a03c8b4c12ab)
