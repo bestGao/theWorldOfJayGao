@@ -1,0 +1,3 @@
+1. Macos Catalina 10.15.5 卸载macbook pro内置app
+首先重启电脑按住command+R 到恢复页面，打开实用工具-终端，输入 csrutil disable 关闭SIP 重启电脑 终端输入 sudo mount -uw / 就可以修改文件夹 简介/共享与权限
+打开终端 输入 sudo rm -rf 拖入要删除的app return/enter
