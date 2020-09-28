@@ -20,3 +20,13 @@ git branch | grep -v "master" | xargs git branch -D
 ``` sh
 git log -1 --pretty=%B
 ```
+- git删除一或多条已经push的commit
+``` bash
+git reset --hard HEAD~number
+修改之后 git push --force
+```
+- git修改最近一次push的commit
+``` bash 
+git add .
+git commit --amend --no-edit
+```
